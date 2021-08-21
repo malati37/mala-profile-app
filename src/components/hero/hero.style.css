@@ -1,0 +1,8 @@
+.hero {
+  min-height: 60vh;
+  background: rgb(197, 229, 250);
+  /* background-image: url(../../assets/image/bg.jpeg); */
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
